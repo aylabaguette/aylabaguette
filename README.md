@@ -1,4 +1,5 @@
-### Hi there 👋
+### hi. i'm ayla. i like computers! 💻
+
 
 <!--
 **aylabaguette/aylabaguette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
